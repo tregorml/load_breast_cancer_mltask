@@ -1,8 +1,11 @@
 ## Model for calculating cancer tumors
-This project calculates the signs and outputs the results of losses on the ML DataFrame
+This project calculates the signs and outputs the results of losses and accuracy on the ML DataFrame
+
+## Have two version
+- First check loss
+- Second check loss and accuracy
 
 ## Features
-- Show loss
 - Base work with DataFrame
 - Base work with PyTorch
   
